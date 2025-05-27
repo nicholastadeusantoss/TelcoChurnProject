@@ -18,13 +18,14 @@ telco-churn-project/
 ## Como usar
 
 1. Clone o repositório:
-    git clone <URL_DO_REPOSITORIO>
+    git clone <https://github.com/nicholastadeusantoss/TelcoChurnProject>
     cd telco-churn-project
 
 2. Instale as dependências:
     pip install -r requirements.txt
 
 3. Baixe o dataset e coloque dentro da pasta `src/data/` (ou configure o caminho no código).
+    https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 4. Execute o script principal:
     ## Funcionalidades
